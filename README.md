@@ -9,4 +9,8 @@ The design was already done by the creators of the Challenge, I sticked with it.
 
 ## What did I built?
 
+### The project with the loading screen
 ![The project with the loading screen](Project_with_loading.png)
+
+### The project with a random comic
+![The project with a random comic](Project_with_a_comic.png)
